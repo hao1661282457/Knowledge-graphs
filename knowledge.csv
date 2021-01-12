@@ -1,0 +1,1023 @@
+knowledge_id,knowledge_name,knowledge_genre
+1311,false color,11
+899,multispectral camera,11
+1036,photo orientation elements,11
+1017,principal plane [of photograph];principal vertical plane,11
+1024,principal vanishing point,11
+1,Abbe comparator principle,22
+2,aberration,22
+3,absolute flying height,22
+4,absolute orientation,22
+5,absorption,22
+6,access,22
+7,accessory,22
+8,accident error,22
+9,accuracy,22
+10,accuracy assessment,22
+932,achromatic film,11
+11,acquisition,22
+12,active remote sensing,22
+1256,active sensor,11
+13,adaptability,22
+1293,additive colir viewer,11
+15,adjacent,22
+17,adjacent area,22
+16,adjacent flight line,22
+18,adjoining sheets,22
+14,adjustment,22
+19,aerial camera,22
+940,aerial film,11
+22,aerial photogrammetry,22
+20,aerial photograph,22
+21,aerial photographic gap,22
+889,aerial photography,11
+23,aerial remote sensing,22
+1270,aerial spectrograph,11
+1108,aeroleveling,11
+1109,aeropolygonometry,11
+25,aerotriangulation,22
+1094,affine plotting,11
+30,affine rectification,22
+31,affined transformation,22
+32,aggregation,22
+33,air base,22
+34,airbone imagery,22
+35,airborne sensor,22
+37,algebra,22
+38,algorithm,22
+36,alignment,22
+39,allocation,22
+40,altimeter,22
+41,altitude,22
+42,ambiguity,22
+43,anaglyph,22
+44,anaglyphical stereoscopic viewing,22
+45,analog,22
+1110,analog aerotriangulation,11
+1093,analog photogrammetric plotting,11
+47,analog photogrammetry,22
+1225,analog tape,11
+46,analog/digital conversion,22
+830,analogue aerial ~ ,22
+831,analytical aerial ~ ,22
+48,analytical aerotriangulation,22
+1139,analytical mapping,11
+1138,analytical orientation,11
+49,analytical photogrammetry,22
+50,analytical plotter,22
+1137,analytical rectification,11
+51,ancillary data,22
+52,angular field of view,22
+53,angular momentum,22
+54,animation,22
+56,annotated photograph,22
+55,annotation,22
+57,aperture,22
+1019,apparent horizon,11
+60,approximation,22
+64,archaeological photogrammetry,22
+63,architectural photogrammetry,22
+61,archive,22
+62,archiving,22
+897,array camera,11
+65,artificial intelligence,22
+66,artificial target,22
+67,aspect,22
+68,aspect map,22
+69,assessment,22
+70,astigmatism,22
+71,atlas,22
+72,atmospheric haze,22
+1207,atmospheric noise,11
+73,atmospheric refraction,22
+679,atmospheric remote sensing,22
+75,atmospheric transmission,22
+76,atmospheric transmissivity,22
+74,atmospheric window,22
+77,attenuation,22
+78,attitude,22
+1267,attitude -measuring sensor,11
+79,attitude parameter,22
+80,attribute,22
+81,autocollimation,22
+82,autocorrelation,22
+83,automatic triangulation,22
+84,azimuth angle,22
+1033,azimuth of photograph,11
+85,azimuth resolution,22
+86,backprojection,22
+87,backup,22
+88,ballistic camera,22
+89,ballistic photogrammetry,22
+90,bandwidth,22
+91,barrel,22
+93,base-height ratio,22
+92,baseline,22
+1076,basis for rectification,11
+94,batch process,22
+95,baud rate,22
+96,Bayes classification,22
+912,between-the-lens shutter;lens shutter,11
+1170,bi-cubic convolution,11
+97,bilinear interpolation,22
+98,binary image,22
+1316,biomass index transformation,11
+558,biomedical ~,22
+99,biomedical photogrammetry,22
+100,biostereometrics,22
+101,black-and-white film,22
+947,black-and-white photography,11
+102,blinking method of stereoscopic viewing,22
+832,block ~,22
+103,block adjustment,22
+26,block triangulation,22
+104,blunder detection,22
+11,boundary,22
+1338,box classifier method,11
+108,breakline,22
+767,bridge-type ~,22
+109,bridging of models,22
+110,brightness,22
+105,bulk processing,22
+106,bundle of rays,22
+29,bundle triangulation,22
+111,cadastral mapping,22
+112,calibration,22
+113,camera calibration,22
+114,carrier phrase measurement,22
+115,Cartesian coordinates,22
+116,cartography,22
+117,characteristic curve of photographic emulsion,22
+1208,characteristic of atmospheric transmission,11
+898,charge-coupled device camera,11
+118,check point,22
+119,chromatic,22
+120,classification,22
+121,classifier,22
+122,close-range photogrammetry,22
+123,clustering,22
+124,cognitive mapping,22
+125,collinearity condition,22
+126,collinearity equations,22
+1299,color coding,11
+1301,color coordinate system,11
+127,color enhancement,22
+129,color film,22
+128,color infrared film,22
+939,color infrared film;false color film,11
+948,color photography,11
+943,color sensitive material,11
+1309,color transformation,11
+130,coma,22
+131,combined adjustment,22
+132,comparator,22
+133,compensation,22
+134,complementary colors,22
+135,component,22
+136,compression,22
+137,computer aided mapping,22
+1226,computer compatible tape;CCT,11
+138,computer vision,22
+139,computer-aided cartography,22
+1343,computer-assisted classification,11
+140,condition equations,22
+1081,condition of intersection；Scheimpflug condition;Czapski condition,11
+141,confidence,22
+143,conformal,22
+148,constraint,22
+144,contact printing,22
+145,content of information,22
+896,continuous strip camera;strip camera,11
+147,contour interval,22
+146,contour lines,22
+983,contrast,11
+150,contrast coefficient,22
+149,contrast enhancement,22
+152,control photostrip,22
+151,control point,22
+975,control strip,11
+789,control surveying,22
+153,convergent photography,22
+154,convolution operators,22
+155,coordinate grid,22
+156,coordinate system,22
+160,coplanarity equation,22
+161,correlation efficient,22
+164,corresponding epipolar line,22
+162,corresponding image point,22
+1052,corresponding image points;homologous image points,11
+163,corresponding image rays,22
+165,cosine transformation,22
+166,covariance,22
+167,covariance matrix,22
+142,coverage,22
+168,crest,22
+169,cross-section,22
+170,cyberspace,22
+171,cycle slip,22
+172,data acquisitation,22
+173,data compression,22
+174,data mining,22
+177,data processing,22
+175,data snooping,22
+176,data transmission,22
+178,data warehouse,22
+179,datum,22
+180,deformation,22
+181,densitometer,22
+1006,density,11
+182,density slicing,22
+183,depression,22
+184,depth of field,22
+185,detector,22
+186,developing,22
+187,diagonal matrix,22
+188,diaphragm,22
+189,differential,22
+190,differential method of photogrammetric mapping,22
+191,differential rectification,22
+192,diffraction,22
+193,diffusion,22
+195,digital correlation,22
+196,digital earth ,22
+1165,digital elevation model;DEM,11
+1288,digital filtering,11
+197,digital image,22
+1282,digital image processing,11
+201,digital mapping,22
+202,digital mosaic,22
+206,digital orthoimage,22
+205,digital orthophoto map,22
+207,digital photogrammetry,22
+208,digital raster graphic,22
+209,digital rectification,22
+203,digital surface model,22
+1166,digital surface model;DSM,11
+1224,digital tape,11
+204,digital terrain model,22
+210,digital tracing table,22
+194,digital/analog transform,22
+199,digitization,22
+200,digitized image,22
+198,digitizer,22
+211,dimensional,22
+219,direct line transformation,22
+1185,direct linear transformation;DLT,11
+220,direct scheme of digital rectification,22
+221,direction cosines,22
+222,discrimination,22
+215,disparity,22
+223,dispersion,22
+216,displacement of image,22
+1332,distance decision function,11
+920,distortion,11
+217,distortion of lens,22
+218,distribution function,22
+224,drainage,22
+225,drawing,22
+226,drift angle,22
+227,dynamic,22
+1260,dynamic sensor,11
+228,earth curvature,22
+229,earth ellipsoid,22
+1250,earth resources technology satellite;ERTS,11
+230,eccentricity,22
+231,edge detection,22
+232,edge enhancement,22
+59,effective,22
+233,eigenvalue,22
+234,eigenvector,22
+235,electromagnetic spectrum,22
+1158,electronic correlation,11
+787,elementary surveying,22
+239,elements of absolute orientation,22
+237,elements of exterior orientation,22
+236,elements of interior orientation,22
+240,elements of rectification,22
+238,elements of relative orientation,22
+241,emulsion,22
+242,encoding,22
+1188,engineering photogrammetry,11
+243,enhancement,22
+244,entity,22
+245,entropy,22
+246,entropy coding,22
+247,environment,22
+675,environmental remote sensing,22
+1251,environmental survey satellite,11
+250,epipolar correlation,22
+248,epipolar line,22
+249,epipolar plane,22
+251,epipolar resampling,22
+252,epipole,22
+253,equalization of histogram,22
+255,equally tilted photography,22
+254,equivalent vertical photograph,22
+256,error circle,22
+257,Ethernet,22
+263,event,22
+258,expert system,22
+261,exponential,22
+259,exposure,22
+260,exposure station,22
+262,exterior orientation,22
+266,false color composite,22
+264,false color film,22
+265,false color photography,22
+267,feature,22
+268,feature coding,22
+269,feature extraction,22
+270,feature selection,22
+271,fiducial marks,22
+274,field curvature,22
+275,field of view,22
+276,filtering,22
+1172,finite elements method,11
+277,fixing,22
+278,flight block,22
+279,flight height,22
+280,flight line,22
+281,flight plan of aerial photography,22
+282,flight strip,22
+287,floating mark,22
+288,flux,22
+286,flying trace,22
+289,focal distance,22
+291,focal plane,22
+913,focal plane shutter;curtain shutter,11
+678,forest remote sensing,22
+292,format,22
+293,forward motion compensation,22
+294,Fourier transformation,22
+295,fractal,22
+296,frame camera,22
+297,free net adjustment,22
+298,frequency,22
+299,Fresnel,22
+493,front nodal point,22
+300,fuzzy classifier method,22
+301,fuzzy image,22
+302,Gaussian distribution,22
+303,generalization,22
+305,generation,22
+308,geocentric coordinate system,22
+307,geodetic database,22
+306,geodetic datum,22
+304,geodetic origin,22
+311,geographic coding,22
+312,geoid,22
+676,geological remote sensing,22
+313,geomatics,22
+1078,geometric condition,11
+314,geometric correction,22
+922,geometric distortion,11
+317,geometric model,22
+315,geometric rectification,22
+1290,geometric rectification of imagery,11
+316,geometric registration of image,22
+1289,geometric registration of imagery,11
+318,geostationary,22
+319,geo-synchronous satellite,22
+320,gnomonic,22
+321,goniometer,22
+332,GPS aerotriangulation,22
+322,gradients,22
+323,graphic,22
+1071,graphical rectification,11
+324,grating,22
+325,gravity,22
+326,grey level,22
+328,grey wedge,22
+1005,grey wedge; optical wedae,11
+329,grid,22
+331,gross error detection,22
+330,ground nadir point,22
+1223,ground receiving station,11
+691,ground resolution,22
+1285,ground truth,11
+333,Gruber point,22
+1313,Hadamard transformation,11
+334,height displacement,22
+1227,high density digital tape;HDDT,11
+335,high-pass filtering,22
+337,histogram,22
+339,histogram equalization,22
+338,histogram specification,22
+340,hologram photography,22
+341,hologrammetry,22
+342,homogeneous,22
+344,homomorphic filtering,22
+345,horizon camera,22
+993,horizon photograph,11
+346,horizontal,22
+347,horizontal parallax,22
+348,horizontal parallax difference,22
+349,hot spots,22
+350,hough transformation,22
+352,hue,22
+351,Huffman,22
+915,hyperfocal distance,11
+353,hypergraph,22
+354,hypermedia,22
+355,hyperspectral,22
+356,hypertext,22
+357,hypothesis,22
+358,identified photograph,22
+360,illuminance of ground,22
+1344,image analysis,11
+362,image coding,22
+363,image correlation,22
+364,image description,22
+1292,image digitisation,11
+365,image digitization,22
+366,image enhancement,22
+367,image fusion,22
+1020,image horizon;horizon trace; vanishing line,11
+361,image imagery,22
+368,image interpretation,22
+369,image matching,22
+370,image mosaic,22
+371,image motion compensation,22
+909,image motion compensation;IMC;forward motion compensation;FMC,11
+372,image overlaying,22
+373,image pyramids,22
+374,image quality,22
+375,image recognition,22
+376,image registration,22
+377,image resolution,22
+988,image resolution;groundresolution,11
+378,image restoration,22
+380,image segmentation,22
+158,image space coordinate system,22
+382,image transformation,22
+383,image understanding,22
+384,imaging equation,22
+385,imaging radar,22
+386,imaging spectrometer,22
+387,incident angle,22
+834,independent model ~,22
+1128,independent model aerial triangulation aerotriangulation by independent model,11
+28,independent model triangulation,22
+359,index contour,22
+1085,index mosaic,11
+389,indirect scheme of digital rectification,22
+390,industrial photogrammetry,22
+391,inertial measurement unit ,22
+392,information extraction,22
+393,infrared film,22
+1231,infrared imagery,11
+394,infrared photography,22
+1275,infrared radiometer,11
+395,infrared remote sensing,22
+396,infrared scanner,22
+1213,infrared spectrum,11
+397,inner,22
+398,inner orientation,22
+919,instantaneous field-of-view;IFOV,11
+399,instrument,22
+400,integration,22
+401,intensity,22
+402,interactive,22
+403,interest point,22
+404,interferogram,22
+405,interferometry,22
+406,interior orientation,22
+407,interometry SAR,22
+408,interoperability,22
+409,interpolation,22
+419,intersection,22
+412,invariant,22
+420,inverse matrix,22
+413,irradiance,22
+414,isocenter of photograph,22
+1013,isocenter of photogrgaph,11
+415,isometric,22
+416,isometric parallel,22
+417,iteration method,22
+418,iteration method with variable weights,22
+422,key word,22
+421,key-in,22
+423,kinematic positioning,22
+424,knickpoint,22
+425,laboratory,22
+427,landform,22
+426,Landsat,22
+428,landscape map,22
+429,large format camera,22
+903,large format camera;LFC,11
+430,latent,22
+432,lateral overlap,22
+431,lateral tilt,22
+1041,lateral tilt;roll,11
+433,layover,22
+434,least squares correlation,22
+435,leveling of model,22
+436,linear array sensor,22
+437,linear features,22
+438,linear transformation,22
+439,linearization,22
+440,logarithmic,22
+442,longitudinal overlap,22
+441,longitudinal tilt,22
+1040,longitudinal tilt;pitch,11
+443,low-pass,22
+1240,lunar orbiter,11
+1184,macrophotogrammetry,11
+444,magazine,22
+445,magnification,22
+446,manual,22
+447,manuscript map,22
+448,map compilation,22
+449,map legend,22
+450,map projection,22
+451,map revision,22
+452,mapping satellite,22
+1245,Mapsat,11
+453,marine charting,22
+454,mathematical expectation,22
+456,matrix,22
+455,maximum likelihood classification,22
+457,mean square error,22
+458,measuring mark,22
+272,mechanical fiducial marks,22
+1096,mechanical projection,11
+459,mechanics,22
+460,median filters,22
+461,mesh,22
+462,metadata,22
+463,meteosat,22
+467,method of least squares,22
+465,metric camera,22
+999,microdensitometer,11
+1180,microphotogrammetry,11
+952,microphotography;microcopying,11
+1233,microwave imagery,11
+468,microwave radiation,22
+469,microwave radiometer,22
+466,microwave remote sensing,22
+1262,microwave remote sensor,11
+464,minimum distance classification,22
+768,mirror ~ ,22
+470,modulation transfer function,22
+1002,modulation transfer function;MTF,11
+471,moiré,22
+1186,moire topography,11
+472,monocomparator,22
+474,mosaic,22
+477,most probable value,22
+473,mount,22
+1173,moving average method,11
+478,multicollimator,22
+479,multiplex,22
+487,multiplicity,22
+481,multispectral camera,22
+482,multispectral photography,22
+483,multispectral remote sensing,22
+484,multispectral scanner,22
+480,multistage rectification,22
+485,multi-temporal analysis,22
+486,multi-temporal remote sensing,22
+488,nadir point,22
+1181,nanophotogrammetry,11
+489,navigation,22
+966,navigation of aerial photography,11
+411,nearest-neighbor interpolation,22
+490,negative,22
+491,neighborhood method,22
+495,neutral network,22
+492,nodal point,22
+496,nonlinear,22
+497,non-metric camera,22
+498,non-topographic photogrammetry,22
+499,normal case photography,22
+500,normal distribution,22
+501,normal equation,22
+502,normalization,22
+985,object contrast,11
+159,object coordinate system,22
+507,object oriented,22
+505,object space coordinate system,22
+506,object spectrum characteristics,22
+918,objective angle of image field;angular field of view,11
+503,oblique,22
+991,oblique photograph,11
+504,oblique photography,22
+508,observation,22
+509,observation equation,22
+510,occlusion,22
+677,ocean remote sensing,22
+512,off-line,22
+511,offset,22
+212,one- dimensional,22
+513,on-line,22
+514,on-line aerial triangulation,22
+516,opacity,22
+517,operator,22
+518,optical axis of lens,22
+1077,optical condition,11
+1157,optical correlation,11
+997,optical density,11
+273,optical fiducial marks,22
+1072,optical graphical rectification,11
+1283,optical image processing,11
+475,optical mosaic,22
+521,optical projection,22
+519,optical rectification,22
+1261,optical sensor,11
+522,optical transfer function,22
+1000,optical transfer function;OTF,11
+520,optical-mechanical rectification,22
+1097,optical-mechanlcal projection,11
+1070,optical一mechanical rectification,11
+524,orientation elements,22
+525,orientation point,22
+933,orthochromatic film,11
+523,orthogonal matrix,22
+526,orthogonal projection,22
+527,orthographic,22
+529,orthoimage,22
+530,orthophoto,22
+1147,orthophoto map,11
+532,orthophoto stereomate,22
+1145,orthophoto stereo-mate,11
+533,orthophoto technique,22
+531,orthophotomap,22
+1146,orthophotoquad,11
+1048,orthostereoscopy,11
+534,outline map,22
+535,outstanding point,22
+536,overlap,22
+537,package,22
+538,panchromatic film,22
+938,panchromatic infrared film,11
+539,panoramic camera,22
+541,panoramic distortion,22
+540,panoramic photography,22
+542,parallax,22
+543,parallax difference,22
+544,parallel-averted photography,22
+545,parameter,22
+546,parameter estimation,22
+547,pass point,22
+684,passive remote sensing,22
+1257,passive sensor,11
+1334,pattern analysis,11
+548,pattern recognition,22
+549,perceived model,22
+550,perigee,22
+551,perspective center,22
+552,phase transfer function,22
+1001,phase transfer function;PTF,11
+567,photo base,22
+1116,photo coordinate system,11
+569,photo interpretation,22
+570,photo map,22
+571,photo mosaic,22
+572,photo nadir point,22
+1065,photo planimetric methodofphotogrammetric mapping,11
+574,photo rectification,22
+575,photo scale,22
+989,photo;photograph,11
+1263,photoelectric sensor,11
+1115,photogrammetric coordinate system,11
+553,photogrammetric distortion,22
+554,photogrammetric workstation,22
+555,photogrammetry,22
+561,photographic bundle of rays,22
+562,photographic coordinate system,22
+563,photographic interpolation,22
+564,photographic paper,22
+565,photographic processing,22
+965,photographic quality,11
+566,photographic scale,22
+559,photography,22
+954,photomicrography,11
+576,phototheodolite,22
+577,physiological parallax,22
+907,picture format,11
+579,pinhole,22
+580,pixel,22
+1008,pixel;picture element,11
+581,planarity,22
+583,platen,22
+582,platform,22
+584,plot,22
+585,plumb line,22
+953,pnotomacrography,11
+586,point marking,22
+588,point of interest,22
+587,point transfer,22
+589,polar,22
+590,polar coordinates,22
+592,polarization,22
+593,polygon,22
+594,polynomial,22
+1168,polynomial method,11
+1112,Porro-Koppe principle,11
+595,positive,22
+596,power spectrum,22
+597,precision,22
+598,precision estimation,22
+617,precision processing,22
+599,prediction,22
+601,primary color,22
+602,principal component transformation,22
+604,principal distance,22
+1099,principal distance of camera,11
+603,principal distance of photo,22
+1100,principal distance of projector,11
+1028,principal epipolar line,11
+1029,principal epipolar plane,11
+605,principal line,22
+1016,principal line [of photograph],11
+606,principal plane,22
+607,principal point,22
+1010,principal point of photograph,11
+609,principle of geometric reverse,22
+610,printer,22
+611,prism,22
+614,probability,22
+1333,probability decision function,11
+613,probable error,22
+615,processing,22
+618,product,22
+619,production,22
+620,projection,22
+621,projection center,22
+1123,projection equation,11
+622,projection printing,22
+623,propagation of errors,22
+624,protocol,22
+625,prototype,22
+1310,pseudo -color,11
+627,pseudo range measurement,22
+626,pseudo-color image,22
+1049,pseudostereoscopy,11
+628,pushbroom imaging,22
+1258,push-broom sensor,11
+629,pyramids,22
+630,quadtree,22
+631,qualitative,22
+632,quality control,22
+633,quantitative,22
+634,quantizing,22
+636,quantum,22
+637,query,22
+638,radargrammetry,22
+639,radial distortion,22
+640,radial triangulation,22
+641,radiant,22
+642,radiation correction,22
+1264,radiation sensor,11
+643,radiograph,22
+646,radiometer,22
+644,radiometry,22
+647,random error,22
+648,random variable,22
+1273,range-only radar,11
+649,raster grid,22
+650,raster to vector conversion,22
+1324,ratio enhancement,11
+651,ratio transformation,22
+652,real-aperture radar,22
+653,real-time photogrammetry,22
+1284,real-time processing,11
+494,rear nodal point,22
+654,reconstruction,22
+656,rectification,22
+655,rectifier,22
+658,reduction,22
+659,redundancy,22
+1236,redundant code,11
+660,redundant information,22
+1318,reference data,11
+661,refinement,22
+662,reflectance spectrum,22
+664,region of search,22
+663,region of target,22
+58,relative,22
+285,relative ~ ,22
+666,relative orientation,22
+667,relaxation,22
+668,reliability,22
+671,remote sensing,22
+1197,remote sensing of natural resources and environment,11
+674,remote sensing of resources,22
+685,remote sensing platform,22
+686,representation,22
+670,resampling,22
+687,reseaux,22
+688,resection,22
+689,residual,22
+690,resolution,22
+926,resolving power of image,11
+695,resolving power of lens,22
+696,restitution,22
+697,restoration,22
+698,retrieval,22
+699,return beam vidicon camera,22
+906,return beam vidicon camera;RBV,11
+700,reversal film,22
+701,roam,22
+1119,Rodrigues matrix,11
+1082,rotation axiom of the perspective;rotational theorem;chasles theorem,11
+702,rotation matrix,22
+703,route,22
+1247,Salyut space station,11
+704,sampling,22
+705,sampling interval,22
+706,satellite altimetry,22
+707,satellite attitude,22
+1230,satellite photo map,11
+886,satellite photogrammetry,11
+708,satellite-borne sensor,22
+709,saturation,22
+710,scaling of model,22
+711,scanner,22
+713,seasat,22
+714,segmentation,22
+715,self-calibration,22
+716,semiconductor,22
+717,semi-metric camera,22
+722,sensitive material,22
+718,sensitivity,22
+720,sensitization,22
+721,sensitometry,22
+723,sensor,22
+724,sequential,22
+725,shadow,22
+726,shutter,22
+728,side-looking radar,22
+1276,side-looking radar;SLR,11
+729,similarity,22
+731,single image,22
+732,singularity,22
+733,small format aerial photography,22
+959,small format aerial photography;SFAP,11
+1204,solar radiation spectrum,11
+1248,Soyuz spacecraft,11
+734,space intersection,22
+736,space photogrammetry,22
+735,space photography,22
+673,space remote sensing,22
+738,space resection,22
+692,space resolution,22
+740,space shuttle,22
+739,Spacelab,22
+741,spatial,22
+742,spatial domain,22
+743,specification,22
+744,spectral,22
+745,spectral sensitivity,22
+746,spectrograph,22
+747,spectrometer,22
+748,spectroradiometer,22
+749,spectrum character curve,22
+1212,spectrum cluster,11
+751,spectrum feature space,22
+750,spectrum response curve,22
+752,sphere,22
+753,spline,22
+1171,splines method,11
+1249,SPOT satellite systeme,11
+754,squint,22
+757,standard deviation,22
+755,static,22
+1259,static sensor,11
+759,statistical,22
+760,statoscope,22
+756,stellar camera,22
+764,stereo pair,22
+765,stereo plotter,22
+761,stereocamera,22
+762,stereocomparator,22
+763,stereometer,22
+1043,stereopair,11
+772,stereophotogrammetry,22
+1246,Stereosat,11
+766,stereoscope,22
+773,stereoscopic model,22
+770,stereoscopic observation,22
+769,stereoscopic vision,22
+775,stochastic,22
+774,stop-number,22
+833,strip ~,22
+27,strip triangulation,22
+776,strips,22
+778,sub pixel,22
+779,sun-synchronous satellite,22
+780,superimposition,22
+781,supervised classification,22
+782,surface model,22
+783,survey adjustment,22
+784,survey mark,22
+786,surveying,22
+785,surveying and mapping,22
+790,sweep,22
+791,swing angle,22
+1042,swing angle;yaw,11
+792,symmetry,22
+793,synthetic aperture radar,22
+1278,synthetic aperture radar;SAR,11
+794,system integration,22
+795,systematic error,22
+796,tangential distortion,22
+694,temperature resolution,22
+798,template,22
+693,temporal resolution,22
+556,terrestrial ~,22
+799,terrestrial camera,22
+800,terrestrial photogrammetry,22
+1272,terrestrial spectrograph,11
+1317,tesseled cap transformation,11
+802,texture analysis,22
+801,texture enhancement,22
+803,thematic map,22
+804,thematic mapper,22
+1279,thematic mapper;TM,11
+805,theodolite,22
+807,thermal infrared imagery,22
+1232,thermal infrared imagery thermal lRimagery,11
+806,thermal radiation,22
+214,three- dimensional,22
+808,threshold,22
+809,tie point,22
+810,tilt angle of photograph,22
+811,tilt displacement,22
+819,toning,22
+820,topographic map,22
+788,topographic survey,22
+821,topology,22
+822,toponomastics toponymy,22
+812,tracing,22
+823,trainning field,22
+825,translation,22
+824,transmittance,22
+826,transparent,22
+813,transparent negative,22
+814,transparent positive,22
+827,transverse,22
+815,triangulated irregular network,22
+828,triangulation,22
+836,trichromatic,22
+816,triple,22
+1018,true horizon,11
+817,true-orthophoto,22
+213,two- dimensional,22
+557,two-medium ~,22
+818,two-medium photogrammetry,22
+837,uncertainty,22
+839,under photogrammetry,22
+838,underwater camera,22
+841,unit matrix,22
+842,unit weight,22
+840,universal method of photogrammetric,22
+1063,universal method of photogrammetric mapping,11
+843,unsupervised classification,22
+844,update,22
+845,urban mapping,22
+846,user interface,22
+848,vanishing point,22
+1080,vanishing point control,11
+849,variance,22
+850,variance-covariance,22
+851,vectograph method of stereoscopic,22
+853,vector,22
+854,vectorization,22
+855,verifiability,22
+856,verification,22
+857,vertical,22
+1031,vertical epipolar line,11
+1030,vertical epipolar plane,11
+858,vertical exaggeration,22
+859,vertical parallax,22
+1051,vertical parallax;y-parallax,11
+990,vertical photograph,11
+860,vertical photography,22
+852,viewing,22
+861,viewpoint,22
+862,virtual reality,22
+863,visual,22
+864,visual interpretation,22
+865,visualization,22
+866,voxel,22
+1314,Walsh transformation,11
+868,wavelength,22
+867,wavelet,22
+869,weight,22
+870,weight function,22
+871,weight matrix,22
+872,weighted mean,22
+873,whiskbroom,22
+1003,Winer spectrum,11
+874,workstation,22
+875,X-ray photogrammetry,22
+876,yan angle,22
+877,y-tilt,22
+878,zenith angle,22
+879,zonal rectification,22
+880,zone,22
+881,zone generation,22
+882,zoom,22
+883,zoom in,22
+884,zoom out,22
